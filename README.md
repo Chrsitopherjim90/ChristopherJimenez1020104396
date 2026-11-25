@@ -66,6 +66,7 @@ El archivo `.github/workflows/ci.yml` se activa automáticamente con cada `push`
 2. Configura Python 3.12.
 3. Instala las dependencias de `requirements.txt`.
 4. Ejecuta las pruebas con `pytest`.
+5. Modificar las clases con suma y resta.
 
 El resultado de cada ejecución se puede consultar en la pestaña "Actions" del repositorio.
 
